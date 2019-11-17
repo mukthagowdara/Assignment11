@@ -1,0 +1,11 @@
+.container-fluid.main{
+    position: absolute; /* To make the navbar positions relative to this container */
+    padding: 10px;
+   top: 20px;
+}
+.carousel{
+    z-index: -1;
+}
+.colorcode{
+    color: black;
+}
